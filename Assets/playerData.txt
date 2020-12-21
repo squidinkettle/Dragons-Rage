@@ -1,0 +1,1 @@
+{"healthLvl":0,"speedLvl":1,"strengthLvl":5,"fireLvl":1,"defenseLvl":2,"evolutionLvl":0,"rageLvl":3,"playerGold":7100,"humanSacrifice":1680}

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Grass
+  - Player Spawn
+  - Enemy Spawn
+  - Fire Attack
+  - Fire Attack Spawn
+  - Fire Attack Particle
+  - Fire Collider
+  - Attack Empty
+  - Enemies Close
+  - Heavy Damage
+  - Transparent Collider
+  - House
+  - Audio Manager
+  - Light Enemy
+  - Average Enemy
+  - Heavy Enemy
+  - Church
+  - Tower
+  - DefendPoint
+  - GameManager
+  - Attack Hitbox
+  - Stone House
+  - Windmill
+  - Farm
+  - Barracks
+  - Castle
+  - Ranged Enemy
+  - Wood Wall
+  - Map Info
+  - MapInfo
+  - PlayerC
+  - barricade
+  - Watchtower
+  - Victory
+  - Health
+  - Defense
+  - Rage
+  - Evolve
+  - Attack
+  - Fire
+  - Speed
+  - SaveButton
+  - infoManager
+  - Tool Tip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - House
+  - Church
+  - Player
+  - Enemy
+  - Farm
+  - Bulding
+  - Ground
+  - projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
